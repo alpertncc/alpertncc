@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen Tunckiran</h1>
 <h3 align="center">I am studying Electrical and Electronics Engineering at Middle East Technical University. I am a founding board member of the METU Blockchain Society, which is the Blockchain Community at my university. I have also been the Education and Content Director of the community for 2 years. I really enjoy researching and producing content about blockchain technology.</h3>
-<img align="right" alt="Daily" width="400" src="https://imgyukle.com/f/2022/12/30/JKeucf.jpeg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpertncc&label=Profile%20views&color=0e75b6&style=flat" alt="alpertncc" /> </p>
 
